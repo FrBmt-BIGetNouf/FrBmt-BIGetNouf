@@ -2,7 +2,7 @@
 
 <img src="https://bleh.me/favicon.svg" alt="" height="76">
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/FrBmt-BIGetNouf/FrBmt-BIGetNouf/main/bleh.svg" alt="Bleh" height="58">
+<img src="https://bleh.me/bleh.svg" alt="Bleh" height="58">
 
 <br><br>
 
