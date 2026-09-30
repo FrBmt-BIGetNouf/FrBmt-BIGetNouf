@@ -2,13 +2,16 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://bleh.me/favicon-dark.svg">
-  <img src="https://bleh.me/favicon.svg" alt="Bleh" width="78">
+  <img src="https://bleh.me/favicon.svg" alt="" height="76">
+</picture>
+&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrBmt-BIGetNouf/FrBmt-BIGetNouf/main/bleh-dark.svg">
+  <img src="https://bleh.me/bleh.svg" alt="Bleh" height="58">
 </picture>
 
-### Bleh — maker of web tools and products
+<br><br>
 
-<a href="https://bleh.me"><b>bleh.me</b></a>
-&nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/beaumontfr/">LinkedIn</a>
 &nbsp;·&nbsp;
 <a href="mailto:fbeaumont@bigetnouf.fr">fbeaumont@bigetnouf.fr</a>
@@ -17,83 +20,112 @@
 
 ---
 
-A curious and versatile web developer. I experiment, prototype and build tools that solve my
-own needs first. When a project turns out useful enough, I polish it and share it, so everyone
-can benefit.
+## À propos
 
-I work under three names: **Bleh** for the tools and products, and two agencies —
-**BIG et Nouf** and **Reflet-Reflet**.
+Développeur web curieux et touche-à-tout, j'aime expérimenter, prototyper et construire des
+outils qui répondent d'abord à mes propres besoins. Quand un projet me semble utile, je le
+peaufine et je le partage pour que tout le monde puisse en profiter.
 
-<br>
-
-## Web tools, built around your privacy
-
-Design, productivity, media, security, development. The vast majority run **entirely in your
-browser**: no data ever leaves your device. A few now offer an account or server sync for
-advanced features, and the listing flags those with a badge.
-
-The site itself is measured with a self-hosted Matomo — no cookies, anonymised IP addresses,
-180 days of retention at most.
-
-**[Discover the tools →](https://bleh.me/tools/)**
-
-## Complete products, built to go further
-
-Beyond the free local tools, I build more ambitious ones: hosted or installable, scalable,
-with advanced features and paid options. The Studio brings them together.
-
-**[Explore the Studio →](https://bleh.me/studio/)**
+*François · BIG · Bleh*
 
 <br>
 
-## What lives on GitHub
+## Des produits complets, pensés pour aller plus loin
+
+Mes produits complets : hébergés ou à installer, évolutifs, avec des options payantes.
+Contrairement aux outils, ils s'appuient sur un compte et un backend dédié.
 
 <table>
 <tr>
-<td valign="top" width="200"><a href="https://github.com/FrBmt-BIGetNouf/bloobyapp"><b>Blooby</b></a></td>
-<td>A desktop companion for Claude Code: every project gets an animated mascot that shows what
-its session is doing — working, waiting on you, idle, asleep. Windows, macOS and Linux.
-Downloads and issues live here, the app itself at <a href="https://blooby.me">blooby.me</a>.</td>
+<td valign="top" width="88"><img src="https://bleh.me/logos/alarum-logo.svg" width="72" alt=""></td>
+<td valign="top">
+
+**Alarum** · Freemium · Hébergé<br>
+*Hub de webhooks centralisé*
+
+Centralisez tous vos webhooks en un seul endroit : recevez, lisez et filtrez vos événements
+(déploiements, alertes, CI/CD...) et soyez notifié en temps réel. Niveaux, tags, sources et une
+API simple pour brancher n'importe quel service. Le gratuit suffit pour un side-project ; les
+offres payantes prennent le relais dès que le volume ou l'équipe grandit.
+
+[alarum.me](https://alarum.me) · [Tarifs](https://alarum.me/pricing)
+
+</td>
 </tr>
 <tr>
-<td valign="top"><a href="https://github.com/FrBmt-BIGetNouf/balatro-french-translations"><b>balatro-french-translations</b></a></td>
-<td>A complete rework of the game's French translations, made by the community.</td>
+<td valign="top"><img src="https://bleh.me/logos/blooby-logo.svg" width="72" alt=""></td>
+<td valign="top">
+
+**Blooby** · Freemium · Desktop<br>
+*Une mascotte animée par session Claude Code*
+
+App desktop qui donne un visage à chacune de vos sessions Claude Code : une petite créature
+posée sur votre dock dont l'animation suit l'état de l'agent (au travail, en attente d'une
+permission, inactive, terminée). Plus besoin de passer d'un terminal à l'autre pour savoir
+laquelle a besoin de vous. Installation en une minute, aucun compte, aucune télémétrie :
+l'app se branche seule sur les hooks de Claude Code. Le payant est purement cosmétique, des
+mascottes à débloquer avec des crédits.
+
+[blooby.me](https://blooby.me) · [Tarifs](https://blooby.me/credits) · [Code et tickets](https://github.com/FrBmt-BIGetNouf/bloobyapp)
+
+</td>
 </tr>
 <tr>
-<td valign="top"><a href="https://github.com/FrBmt-BIGetNouf/balatro-sprites-i18n"><b>balatro-sprites-i18n</b></a></td>
-<td>An internationalization toolchain for translating Balatro's sprites — the text baked into
-the artwork, not just the strings.</td>
+<td valign="top"><img src="https://bleh.me/logos/floatee-logo.svg" width="72" alt=""></td>
+<td valign="top">
+
+**Floatee** · Freemium · Hébergé<br>
+*Hub de todos, idées & notes, agent-first*
+
+Centralisez vos todos, idées et notes dans une app web (PWA) doublée d'une API REST que vos
+agents de code pilotent directement. Capture éclair depuis mobile, historique recherchable,
+espaces de travail partagés. Comptes via OAuth. Le gratuit suffit pour un side-project ; les
+offres payantes prennent le relais quand les projets et l'équipe se multiplient.
+
+[floatee.me](https://floatee.me) · [Tarifs](https://floatee.me/pricing)
+
+</td>
 </tr>
 </table>
 
-Most of what I make is web-based and ships from <a href="https://bleh.me">bleh.me</a> rather
-than from a repository, so this profile is only a slice of it.
-
 <br>
 
-## Digital creative agencies
+## Agences créatives numériques
 
 <table>
 <tr>
-<td valign="top" width="80"><img src="https://bleh.me/logos/bigetnouf-logo.svg" width="64" alt=""></td>
-<td><a href="https://bigetnouf.fr"><b>BIG et Nouf</b></a> — a web agency specializing in custom
-application development, showcase and e-commerce websites. We support businesses, startups and
-freelancers from design to production: technical architecture, front-end and back-end
-development, API integration, hosting and maintenance. A pragmatic approach, focused on
-performance and tangible results.</td>
+<td valign="top" width="88"><img src="https://bleh.me/logos/bigetnouf-logo.svg" width="72" alt=""></td>
+<td valign="top">
+
+**[BIG et Nouf](https://bigetnouf.fr)**
+
+BIG et Nouf est une agence web spécialisée dans le développement d'applications sur mesure, de
+sites vitrines et e-commerce. Nous accompagnons les entreprises, startups et indépendants de la
+conception à la mise en production : architecture technique, développement front-end et
+back-end, intégration d'APIs, hébergement et maintenance. Notre approche se veut pragmatique,
+orientée performance et résultats concrets.
+
+</td>
 </tr>
 <tr>
-<td valign="top"><img src="https://bleh.me/logos/reflet-logo.svg" width="64" alt=""></td>
-<td><a href="https://reflet-reflet.fr"><b>Reflet-Reflet</b></a> — a development studio
-specializing in cultural and heritage projects. Custom digital experiences for museums,
-cultural institutions, local authorities and heritage stakeholders: interactive applications,
-virtual tours, mediation devices, collection platforms and educational tools. Web development
-combined with cultural sensitivity, to bring heritage to life.</td>
+<td valign="top"><img src="https://bleh.me/logos/reflet-logo.svg" width="72" alt=""></td>
+<td valign="top">
+
+**[Reflet-Reflet](https://reflet-reflet.fr)**
+
+Reflet-Reflet est un studio de développement spécialisé dans les projets culturels et
+patrimoniaux. Nous concevons des expériences numériques sur mesure pour les musées,
+institutions culturelles, collectivités et acteurs du patrimoine : applications interactives,
+visites virtuelles, dispositifs de médiation, plateformes de valorisation de collections et
+outils pédagogiques. Notre expertise allie développement web et sensibilité culturelle pour
+donner vie au patrimoine à travers le numérique.
+
+</td>
 </tr>
 </table>
 
 <br>
 
 <div align="center">
-<sub>Bleh is powered by caffeine &amp; kindness.</sub>
+<sub>Bleh carbure à la caféine et à la gentillesse.</sub>
 </div>
